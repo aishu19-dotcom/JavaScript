@@ -1,3 +1,3 @@
 # JavaScript
 
-##This repository has all the js code from my projects
+## This repository has all the js code from my projects
